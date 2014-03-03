@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: EduSystem Plugin File Data Extension
+Bundle-SymbolicName: EduSystemPlugin.FileDataExtension;singleton:=true
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: edusystemplugin.filedataextension.Activator
+Bundle-Vendor: Shawn Mathes
+Require-Bundle: org.eclipse.core.runtime,
+ EduSystemPlugin;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-ActivationPolicy: lazy
